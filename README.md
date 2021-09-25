@@ -30,6 +30,9 @@ Vi lascio il config.plist rinominato in configbeta7.plist pronto da utilizzare S
 Al termine dell'aggiornamento dovete cancellarlo e rimettere l'originale config.plist.
 È consigliabile scollegare l'Hackintosh dall'ID Apple prima di sostituire momentaneamente il config.plist
 
+## NOTE:
+Kexts aggiornati alle ultime versioni eccetto USBInjectAll (provvisorio dato che manca mappatura USB) e RealtekRTL8111 che nella versione 2.4.2 dava problemi di instabilità alla connessione LAN almeno nel mio caso.
+
 # Impostazioni Bios
 
 ## Disabilita:
