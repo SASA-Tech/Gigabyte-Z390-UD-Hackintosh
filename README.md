@@ -74,7 +74,7 @@ Al termine dell'aggiornamento dovete cancellarlo e rimettere l'originale config.
 ## Crediti
 
 - [Acidanthera](https://github.com/acidanthera) per OpenCore Bootloader
-- [Apple](https://apple.com) for macOS;
+- [Apple](https://apple.com) per macOS;
 - [HackintoshLifeIT](https://github.com/Hackintoshlifeit)
 - [Baio1977](https://github.com/Baio1977)
 - [Lorys89](https://github.com/Lorys89)
