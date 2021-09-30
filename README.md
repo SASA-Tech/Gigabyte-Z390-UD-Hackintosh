@@ -26,8 +26,8 @@
 ## Di default la GUI di OC è impostata in 1920x1080.
 Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella Resources e scompattate quella che vi interessa.
 
-## Se volete installare la Beta 7 di macOS Monterey:
-Vi lascio il config.plist rinominato in configbeta7.plist pronto da utilizzare SOLO per scaricare ed installare l'aggiornamento.
+## Se volete installare la Beta 8 di macOS Monterey:
+Vi lascio il config.plist rinominato in configbeta8.plist pronto da utilizzare SOLO per scaricare ed installare l'aggiornamento.
 Al termine dell'aggiornamento dovete cancellarlo e rimettere l'originale config.plist.
 È consigliabile scollegare l'Hackintosh dall'ID Apple prima di sostituire momentaneamente il config.plist
 
