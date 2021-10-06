@@ -27,9 +27,12 @@
 Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella Resources e scompattate quella che vi interessa.
 
 ## Se volete installare la Beta 8 di macOS Monterey:
-Vi lascio il config.plist rinominato in configbeta8.plist pronto da utilizzare SOLO per scaricare ed installare l'aggiornamento.
+~~Vi lascio il config.plist rinominato in configbeta8.plist pronto da utilizzare SOLO per scaricare ed installare l'aggiornamento.
 Al termine dell'aggiornamento dovete cancellarlo e rimettere l'originale config.plist.
-È consigliabile scollegare l'Hackintosh dall'ID Apple prima di sostituire momentaneamente il config.plist
+È consigliabile scollegare l'Hackintosh dall'ID Apple prima di sostituire momentaneamente il config.plist, in alternativa usate il kexts RestrictEvents.~~
+
+Con OpenCore 0.7.4 è stato fixato questo problema dell'aggiornamento.
+Adesso potete aggiornare senza RestrictEvents.kexts e senza cambiare config.plist
 
 ## NOTE:
 Kexts aggiornati alle ultime versioni eccetto USBInjectAll (provvisorio dato che manca mappatura USB) e RealtekRTL8111 che nella versione 2.4.2 dava problemi di instabilità alla connessione LAN almeno nel mio caso.
