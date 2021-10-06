@@ -35,7 +35,7 @@ Con OpenCore 0.7.4 è stato fixato questo problema dell'aggiornamento.
 Adesso potete aggiornare senza RestrictEvents.kexts e senza cambiare config.plist
 
 ## NOTE:
-Kexts aggiornati alle ultime versioni eccetto USBInjectAll (provvisorio dato che manca mappatura USB) e RealtekRTL8111 che nella versione 2.4.2 dava problemi di instabilità alla connessione LAN almeno nel mio caso.
+Kexts aggiornati alle ultime versioni eccetto RealtekRTL8111 che nella versione 2.4.2 dava problemi di instabilità alla connessione LAN almeno nel mio caso.
 
 # Impostazioni Bios
 
@@ -69,7 +69,7 @@ Kexts aggiornati alle ultime versioni eccetto USBInjectAll (provvisorio dato che
 - [x] Intel UHD 630 iGPU
 - [x] ALC887 Uscite interne
 - [x] ALC887 HDMI Audio Output
-- [x] Porte USB (Funzionano ma richiedono mappatura)
+- [x] Porte USB
 - [x] Realtek 8118 Gaming LAN
 - [x] NVRAM
 - [x] Avvio Windows da OpenCore
