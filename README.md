@@ -19,7 +19,7 @@
 | RAM              | 16 Gb DDR4 3200 Mhz                |
 | SSD              | Samsung 750 Evo 250gb              |
 | SMBIOS           | iMac19,1                           |
-| Bootloader       | OpenCore 0.7.3                     |
+| Bootloader       | OpenCore 0.7.4                     |
 
 ![infodp1](./Screenshot/Mobo.png)
 
@@ -82,11 +82,9 @@ Kexts aggiornati alle ultime versioni eccetto USBInjectAll (provvisorio dato che
 
 - [Acidanthera](https://github.com/acidanthera) per OpenCore Bootloader
 - [Apple](https://apple.com) per macOS;
-- [HackintoshLifeIT](https://github.com/Hackintoshlifeit) Gruppo di supporto Pre e Post Installazione
-- [Baio1977](https://github.com/Baio1977)
-- [Lorys89](https://github.com/Lorys89)
-- [Dortania](https://github.com/dortania)
-- [Daliansky](https://github.com/daliansky)
-- [Rehabman](https://github.com/RehabMan)
+- [HackintoshLifeIT](https://github.com/Hackintoshlifeit) Gruppo di supporto pre e post Installazione
+- [Baio1977](https://github.com/Baio1977) per il supporto
+- [Lorys89](https://github.com/Lorys89) per il supporto
+- [Dortania](https://github.com/dortania) per le guide OpenCore.
 
 # Se avete bisogno di aiuto contattateci su [Telegram](https://t.me/HackintoshLife_it)
