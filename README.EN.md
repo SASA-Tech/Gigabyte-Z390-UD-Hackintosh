@@ -80,7 +80,7 @@ Kexts updated to the latest versions except RealtekRTL8111 which in version 2.4.
 
 - [Acidanthera](https://github.com/acidanthera) for OpenCore Bootloader
 - [Apple](https://apple.com) for macOS;
-- [HackintoshLifeIT](https://github.com/Hackintoshlifeit) Support group for pre and post installation
+- [HackintoshLifeIT](https://github.com/Hackintoshlifeit) Support group pre and post installation
 - [Baio1977](https://github.com/Baio1977) for the support
 - [Lorys89](https://github.com/Lorys89) for the support
 - [Dortania](https://github.com/dortania) for OpenCore guides
