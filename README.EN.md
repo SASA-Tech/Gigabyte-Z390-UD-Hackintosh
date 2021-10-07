@@ -9,7 +9,7 @@
 # Italian Repository 🇮🇹
 #### macOS Big Sur/Monterey successfully installed on Gigabyte Z390 UD
 
-# Specifiche:
+# Specs:
 
 | Components       | Models                             |
 | ---------------- | ---------------------------------- |
@@ -59,11 +59,11 @@ Kexts updated to the latest versions except RealtekRTL8111 which in version 2.4.
 
 ## Generic settings, you may not find some.
   
-# Dispositivo Screenshot
+# Devices Screenshot:
 ![infodp1](./Screenshot/Peripherials.png)
 ![infodp2](./Screenshot/PCIe.png)
 
-# Cosa funziona e cosa no:
+# what works and what doesn't:
 - [x] Intel UHD 630 iGPU
 - [x] ALC887 internal output
 - [x] ALC887 HDMI Audio Output
